@@ -244,7 +244,7 @@ export default function NewOrder() {
                             ListEmptyComponent={
                                 <View>
                                     <Text>
-                                        Aucune aucune commande pour le moment.
+                                        Aucune commande pour le moment.
                                     </Text>
                                 </View>
                             }
