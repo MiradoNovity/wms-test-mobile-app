@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "wms-test-mobile-app",
+    "slug": "wms-test-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FAFAFC"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FAFAFC"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1729011949948,
+      "tag": "0000_fine_sheva_callister",
+      "breakpoints": true
+    }
+  ]
+}
