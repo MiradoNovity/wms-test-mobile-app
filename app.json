@@ -19,13 +19,21 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FAFAFC"
-      }
+      },
+      "package": "com.miradonovity.wmstestmobileapp",
+      "versionCode": 1
     },
     "plugins": [
       "expo-router"
     ],
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb387bdb-a3c8-4fdc-a764-da092e16b0b9"
+      }
+    },
+    "owner": "miradonovity"
   }
 }
